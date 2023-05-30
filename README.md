@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @neOne111111111111
 - 👀 I’m interested in ...creating affordable EEG device 
 - 🌱 I’m currently learning ...in search for under 30 dollar EEG circuit board chip 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...all process
 - 📫 How to reach me ...ramzighandour477@gmail.com
 
 <!---
